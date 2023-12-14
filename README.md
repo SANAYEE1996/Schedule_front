@@ -1,8 +1,8 @@
-# React + Vite
+# 스케줄 알림 화면
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+스케줄에 대한 알림을 전송하는 서버입니다.<br>
+SSE(Server Sent Events) 방식이 적용됩니다.
+ 
+## 개발 환경
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Visual Studio Code
