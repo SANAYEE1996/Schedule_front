@@ -6,4 +6,4 @@ if (hostname == "localhost" || hostname == "127.0.0.1"){
     msHost = "http://localhost:6000";
 }
 
-export const NEWS_URL = `${msHost}`;
+export const SCHEDULE_URL = `${msHost}`;
