@@ -1,7 +1,7 @@
 import React from "react";
-import "./index.css";
-import App from "./App";
-import Login from "./component/Login";
+import "../index.css"
+import App from "../App";
+import Login from "../component/Login";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function Copyright() {
